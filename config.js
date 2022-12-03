@@ -22,13 +22,13 @@ global.APIKeys = { // APIKey Here
   'https://api.neoxr.eu.org': 'yntkts',
   'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://melcanz.com': 'elaina',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.lolhuman.xyz': 'Dorobotz',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
-  'https://api.lolhuman.xyz': 'Imanmon'
+  'https://api.lolhuman.xyz': 'Wisnu'
 }
 global.packname = data.namabot
 global.author = data.owner
